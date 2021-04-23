@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Welcome\Welcome\bin\Debug\netcoreapp3.1\Welcome.exe
+C:\Users\HP\source\repos\Welcome\Welcome\bin\Debug\netcoreapp3.1\Welcome.deps.json
+C:\Users\HP\source\repos\Welcome\Welcome\bin\Debug\netcoreapp3.1\Welcome.runtimeconfig.json
+C:\Users\HP\source\repos\Welcome\Welcome\bin\Debug\netcoreapp3.1\Welcome.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Welcome\Welcome\bin\Debug\netcoreapp3.1\Welcome.dll
+C:\Users\HP\source\repos\Welcome\Welcome\bin\Debug\netcoreapp3.1\Welcome.pdb
+C:\Users\HP\source\repos\Welcome\Welcome\obj\Debug\netcoreapp3.1\Welcome.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Welcome\Welcome\obj\Debug\netcoreapp3.1\Welcome.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Welcome\Welcome\obj\Debug\netcoreapp3.1\Welcome.AssemblyInfo.cs
+C:\Users\HP\source\repos\Welcome\Welcome\obj\Debug\netcoreapp3.1\Welcome.dll
+C:\Users\HP\source\repos\Welcome\Welcome\obj\Debug\netcoreapp3.1\Welcome.pdb
